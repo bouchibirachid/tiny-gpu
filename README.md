@@ -22,7 +22,7 @@ Built with <15 files of fully documented Verilog, complete documentation on arch
 - [Advanced Functionality](#advanced-functionality)
 - [Next Steps](#next-steps)
 
-# Overview
+# Overvew
 
 If you want to learn how a CPU works all the way from architecture to control signals, there are many resources online to help you.
 
